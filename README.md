@@ -1,5 +1,4 @@
-# springbootfeatures
-Features : Spring Boot 3, Java 17
+Spring Boot 3, Java 17
 
 
 # Spring Boot Features 
