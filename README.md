@@ -13,7 +13,7 @@ This POC/Demo will cover basic + advanced concepts of Spring boot which includes
 
 #AOP
 
-Exception handling using @ExceptionHandler & @ControllerAdvice
+#Exception handling using @ExceptionHandler & @ControllerAdvice
 
 Interceptor
 
@@ -25,11 +25,15 @@ CORS support
 
 Internationalization
 
-Scheduling + Schedlock
+#Scheduling + Schedlock
 
 Enabling Https
 
-Eureka Server + Registration + Zuul Proxy server
+#Eureka Service Registry
+
+Spring Cloud Gateway
+
+Zuul Proxy server
 
 Actuator
 
